@@ -1,7 +1,7 @@
 # DWPCNNFusion
 ## Deep pulse-coupled neural networks incorporating Weber’s law for efficient infrared and visible image fusion
 
-We are pleased to announce that this work has been accepted by **Infrared Physics & Technology (JCR Q2)**.
+We are pleased to announce that this work has been accepted by **Infrared Physics & Technology (JCR Q2)**!
 
 **Paper:** [Read the published article](https://doi.org/10.1016/j.infrared.2026.106417)
 
