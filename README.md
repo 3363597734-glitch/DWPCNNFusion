@@ -27,7 +27,7 @@ The paper evaluates DWPCNNFusion on:
 - **MSRS:** paired infrared and visible images.
 - **TNO:** infrared and visible image pairs used to evaluate fusion performance across different scenes.
 
-##Visualization
+## Visualization
 <img width="1217" height="920" alt="微信图片_2026-10-14_095251_220" src="https://github.com/user-attachments/assets/b3f83c60-5e1d-43ee-a478-515ca57bb577" />
 
 
